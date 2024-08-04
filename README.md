@@ -1,4 +1,4 @@
-# 🕹️ 🍋 Little Lemon Website - Front-End Development - META Professional Certificate
+# 🍋 Little Lemon Website - Front-End Development - META Professional Certificate
 
 - Welcome to the Little Lemon website project!
 - This project is a front-end web application built with React. It serves as a modern, interactive, and visually appealing website for the fictional Little Lemon restaurant.
